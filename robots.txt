@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ursmaheshj.github.io/sitemap.xml
+Sitemap: https://ursmaheshj.github.io/maheshjadhav/sitemap.xml
