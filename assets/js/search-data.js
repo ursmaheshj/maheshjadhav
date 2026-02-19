@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/maheshjadhav/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-mongodb-nosql-database-with-25-basic-commands",
+        
+          title: 'MongoDB| NoSQL database with 25 basic commands <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://ursmaheshj.medium.com/mongodb-nosql-database-with-25-basic-commands-3b9af48f39de?source=rss-5113a4c6566c------2", "_blank");
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -81,6 +92,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/maheshjadhav/blog/2025/plotly/";
+          
+        },
+      },{id: "post-internet-and-cookies",
+        
+          title: 'Internet and cookies <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://ursmaheshj.medium.com/internet-and-cookies-425f46bbe0ac?source=rss-5113a4c6566c------2", "_blank");
+          
+        },
+      },{id: "post-how-to-extract-logs-from-aws-cloudwatch-using-python-and-boto3",
+        
+          title: 'How to extract logs from AWS CloudWatch using python and Boto3 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://ursmaheshj.medium.com/how-to-extract-logs-from-aws-cloudwatch-using-python-and-boto3-d4b3e03a5741?source=rss-5113a4c6566c------2", "_blank");
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -94,15 +127,15 @@ ninja.data = [{
             window.location.href = "/maheshjadhav/blog/2024/photo-gallery/";
           
         },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+      },{id: "post-django-queryset-field-lookups-unlocking-advanced-data-filtering-techniques-for-your-django",
         
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Django QuerySet Field Lookups: Unlocking Advanced Data Filtering Techniques for Your Django… <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+            window.open("https://medium.com/django-unleashed/django-queryset-field-lookups-unlocking-advanced-data-filtering-techniques-for-your-django-1eedf0c2781b?source=rss-5113a4c6566c------2", "_blank");
           
         },
       },{id: "post-a-post-with-tabs",
@@ -248,6 +281,39 @@ ninja.data = [{
             window.location.href = "/maheshjadhav/blog/2023/jupyter-notebook/";
           
         },
+      },{id: "post-exploring-the-most-popular-regression-metrics-for-data-scientist",
+        
+          title: 'Exploring the Most Popular Regression Metrics for Data Scientist <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://ursmaheshj.medium.com/exploring-the-most-popular-regression-metrics-for-data-scientist-cf89500f2360?source=rss-5113a4c6566c------2", "_blank");
+          
+        },
+      },{id: "post-handling-missing-data-data-science-machine-learning",
+        
+          title: 'Handling Missing Data | Data science | Machine learning <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://ursmaheshj.medium.com/effective-strategies-for-handling-missing-data-a215056a07e3?source=rss-5113a4c6566c------2", "_blank");
+          
+        },
+      },{id: "post-create-your-own-dataset-a-step-by-step-guide-to-web-scraping-using-selenium-and-python",
+        
+          title: 'Create Your Own Dataset: A Step-by-Step Guide to Web Scraping using Selenium and... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://ursmaheshj.medium.com/create-your-own-dataset-a-step-by-step-guide-to-web-scraping-using-selenium-and-python-b4a6da73b71d?source=rss-5113a4c6566c------2", "_blank");
+          
+        },
       },{id: "post-a-post-with-custom-blockquotes",
         
           title: "a post with custom blockquotes",
@@ -292,6 +358,28 @@ ninja.data = [{
             window.location.href = "/maheshjadhav/blog/2023/videos/";
           
         },
+      },{id: "post-why-do-we-need-data-types-of-data-in-statistics",
+        
+          title: 'Why do we need DATA? Types of Data in statistics <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://ursmaheshj.medium.com/why-do-we-need-data-types-of-data-65bb237e9c11?source=rss-5113a4c6566c------2", "_blank");
+          
+        },
+      },{id: "post-unlocking-the-power-of-machine-learning-a-beginner-s-guide-to-understanding-algorithms-and-models",
+        
+          title: 'Unlocking the Power of Machine Learning: A Beginner’s Guide to Understanding Algorithms and... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://ursmaheshj.medium.com/unlocking-the-power-of-machine-learning-a-beginners-guide-to-understanding-algorithms-and-models-72167d30f2ce?source=rss-5113a4c6566c------2", "_blank");
+          
+        },
       },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
         
           title: "displaying beautiful tables with Bootstrap Tables",
@@ -314,6 +402,17 @@ ninja.data = [{
             window.location.href = "/maheshjadhav/blog/2023/table-of-contents/";
           
         },
+      },{id: "post-database-selection-made-easy-understanding-the-7-paradigms-to-choose-the-best-suitable-database",
+        
+          title: 'Database Selection Made Easy: Understanding the 7 Paradigms to Choose the Best Suitable... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://ursmaheshj.medium.com/selecting-the-best-suitable-database-from-7-paradigms-4cae5665a329?source=rss-5113a4c6566c------2", "_blank");
+          
+        },
       },{id: "post-a-post-with-giscus-comments",
         
           title: "a post with giscus comments",
@@ -323,17 +422,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/maheshjadhav/blog/2022/giscus-comments/";
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
       },{id: "post-a-post-with-redirect",
