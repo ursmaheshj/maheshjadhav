@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ursmaheshj
 
-repo_description_lines_max: 2
+repo_description_lines_max: 1
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - name: "maheshjadhav.github.io"
+    description: "Personal website of Mahesh Jadhav"
+    url: "https://ursmaheshj.github.io"

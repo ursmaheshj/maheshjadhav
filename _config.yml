@@ -92,7 +92,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: log.info() # blog_name will be displayed in your blog page
-blog_description: Logging the things I’ll definitely forget by next Tuesday.
+blog_description: Logging things I’ll definitely forget by next Tuesday.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
