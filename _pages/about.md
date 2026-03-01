@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Honesty is the best policy
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: maheshjadhav.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Tower 11, Magarpatta,</p>
